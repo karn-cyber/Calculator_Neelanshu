@@ -1,7 +1,6 @@
 # Calculator_Neelanshu
-# Calculator Website
 
-Welcome to the **Calculator Website**! This project is a simple and stylish calculator built using **HTML**, **CSS**, and **JavaScript**. It allows users to perform basic arithmetic operations in a user-friendly interface.
+Welcome to the **Calculator**! This project is a simple and stylish calculator built using **HTML** and **CSS**. It allows users to perform basic arithmetic operations in a user-friendly interface.
 
 ---
 
@@ -37,3 +36,11 @@ How to Use
 	2.	Use the buttons on the calculator to input numbers and operators.
 	3.	Press the = button to get the result.
 	4.	Use the AC button to clear the input.
+
+Project Structure:
+
+    calculator-website/
+│
+├── index.html         # Main HTML file
+├── style.css          # CSS for styling the calculator
+├── README.md          # Project documentation

@@ -49,4 +49,8 @@ form .display input {
 
 form input.equal { /* Corrected selector */
     width: 145px;
+    color:rgb(81, 240, 81);
+}
+form input.operator{
+    color:rgb(81, 240, 81);
 }

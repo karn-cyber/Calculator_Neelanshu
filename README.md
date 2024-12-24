@@ -26,8 +26,10 @@ Welcome to the **Calculator**! This project is a simple and stylish calculator b
    ```bash
    git clone https://github.com/karn-cyber/Calculator_Neelanshu.git
 2.	Navigate to the project directory:
+   ```bash
     cd Calculator_Neelanshu
 3. Open index.html in your preffered Website:
+    ```bash
     open index.html
 
 How to Use
@@ -38,9 +40,9 @@ How to Use
 	4.	Use the AC button to clear the input.
 
 Project Structure:
-
-    calculator-website/
-│
-├── index.html         # Main HTML file
-├── style.css          # CSS for styling the calculator
-├── README.md          # Project documentation
+ ```bash
+                calculator-website/
+                │
+                ├── index.html         # Main HTML file
+                ├── style.css          # CSS for styling the calculator
+                ├── README.md          # Project documentation
